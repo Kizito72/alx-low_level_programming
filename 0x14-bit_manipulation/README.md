@@ -1,1 +1,1 @@
-0x14. C - Bit manipulation Task
+All 0x14. C - Bit manipulation Taski
